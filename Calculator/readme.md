@@ -38,9 +38,10 @@ To run this project locally, follow these steps:
    git clone https://github.com/Axe-Pearl/Mini-Projects.git
 
 2.  **Navigate to the project folder:**
-    ```bash
-   cd calculator-project
 
+   ```bash
+   cd Mini-projects
+   
 3. **Open the Calculator folder:**
     Double-click on the Calculator project
 
