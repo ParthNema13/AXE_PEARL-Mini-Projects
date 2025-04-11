@@ -32,16 +32,12 @@ A beginner-friendly calculator built using HTML, CSS, and JavaScript. This proje
 
 To run this project locally, follow these steps:
 
-1. **Clone the repository:**
+1. **Clone the repository:** `git clone https://github.com/Axe-Pearl/Mini-Projects.git`
 
-   ```bash
-   git clone https://github.com/Axe-Pearl/Mini-Projects.git
 
-2.  **Navigate to the project folder:**
+2. **Navigate to the project folder:** `cd Mini-projects`
 
-   ```bash
-   cd Mini-projects
-   
+
 3. **Open the Calculator folder:**
     Double-click on the Calculator project
 
