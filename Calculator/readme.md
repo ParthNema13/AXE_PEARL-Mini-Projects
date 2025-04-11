@@ -41,10 +41,10 @@ To run this project locally, follow these steps:
     ```bash
    cd calculator-project
 
-3. **Open the Calculator folder**
+3. **Open the Calculator folder:**
     Double-click on the Calculator project
 
-4. **Open the index.html file in your browser**
+4. **Open the index.html file in your browser:**
     Double-click index.html
 
 
